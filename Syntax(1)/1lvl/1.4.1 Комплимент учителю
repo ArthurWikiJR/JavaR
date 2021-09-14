@@ -1,0 +1,13 @@
+Комплимент учителю
+Написать программу, выводящую на экран надпись «Элли очень умная» 5 раз. Каждый раз – с новой строки.
+
+public class Solution {
+    public static void main(String[] args) {
+        
+        System.out.println("Элли очень умная");
+         System.out.println("Элли очень умная");
+          System.out.println("Элли очень умная");
+           System.out.println("Элли очень умная");
+            System.out.println("Элли очень умная");
+    }
+}
