@@ -7,5 +7,4 @@ public class Solution {
          System.out.print("Я думаю, быть программистом круто");
     }
 }
-q
-s
+
