@@ -1,0 +1,13 @@
+Вывод на экран переменной
+
+Объяви переменную name типа String.
+Сразу же в строке объявления присвой ей какое-нибудь значение.
+Выведи на экран переменную name.
+
+public class Solution {
+    public static void main(String[] args) {
+        //напишите тут ваш код
+        String name = "Jack";
+        System.out.println(name);
+    }
+}
